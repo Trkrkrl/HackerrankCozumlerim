@@ -1,9 +1,9 @@
-merhaba arkadaslar
-Group by dersinden başlayarak bir listeye ihtyiacımız var
-siz tablo daki elementleri ve veri türlerini doğru yazın
-sonra aşağıdaki kodları querrye yapıştırın
+--merhaba arkadaslar
+--Group by dersinden başlayarak bir listeye ihtyiacımız var
+--siz tablo daki elementleri ve veri türlerini doğru yazın
+--sonra aşağıdaki kodları querrye yapıştırın
 
-isimler ve maaşar aynı değil 100 tane random oluşturdum umarım işinize yarar
+--isimler ve maaşar aynı değil 100 tane random oluşturdum umarım işinize yarar
 ---alt tarafı kopyala, querrye yapistir---
 insert into kisiler (KisiNo,Ad,Soyad,Meslek,Sehir,Maas) Values(1, 'SEZAİ ',' BÜYÜKKALAYCI ',' Avukat ',' Elazığ ',3705);
 insert into kisiler (KisiNo,Ad,Soyad,Meslek,Sehir,Maas) Values(2, 'ABDURRAHMAN ',' KARAPINAR ',' Oyuncu ',' Erzincan ',2808);
